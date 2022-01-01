@@ -1,0 +1,13 @@
+{
+    "name": "Royale Blest Company Workflow",
+    "description": "Royale Blest Company CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
